@@ -1,0 +1,4 @@
+czasGry=40
+rodzajCelownika=krzyzyk kropka
+kolorCelownika=czerwony zielony niebieski
+szybkosc=2

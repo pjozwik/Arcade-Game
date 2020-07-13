@@ -1,0 +1,13 @@
+#Lvl0
+IloscOdejmowanychPunktowZaNieTrafienie0=1
+IlooscPotrzebnychPunktow0=30
+#Lvl1
+IloscOdejmowanychPunktowZaNieTrafienie1=2
+IlooscPotrzebnychPunktow1=12
+#Lvl2
+IloscOdejmowanychPunktowZaNieTrafienie2=3
+IlooscPotrzebnychPunktow2=14
+#Lvl3
+IloscOdejmowanychPunktowZaNieTrafienie3=4
+IlooscPotrzebnychPunktow3=16
+
